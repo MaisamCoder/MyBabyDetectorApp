@@ -1,0 +1,7 @@
+body{
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 5px, 5px, 18px, wheat;
+}
